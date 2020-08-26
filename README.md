@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexisprovost" alt="alexisprovost" /> </p>
 
-- 🔭 I’m currently working on [Sprinklr](a)
+- 🔭 I’m currently working on [Sprinklr](#)
 
 - 🌱 I’m currently learning **Computer Sciences**
 
