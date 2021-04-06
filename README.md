@@ -7,9 +7,9 @@
   <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0172b3"/>
 </p>
 
-- 🔭 I’m currently working on [Sprinklr](#)
-
 - 🌱 I’m currently learning **Computer Sciences**
+
+- 🔭 I’m currently working on [Sprinklr](#)
 
 - 👨‍💻 All of my projects will be available on [my website](https://alexis.provost.cloud)
 
