@@ -13,4 +13,4 @@
 
 - 👨‍💻 All of my projects will be available on [my website](https://alexis.provost.cloud)
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexisprovost&show_icons=true" alt="alexisprovost" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexisprovost&theme=dark&show_icons=true" alt="alexisprovost" /></p>
