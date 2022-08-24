@@ -17,6 +17,6 @@
 
 - 🌱 I’m currently learning **Computer Sciences**
 
-- 👨‍💻 Check out [my website](https://alexis.provost.cloud)
+- 👨‍💻 Check out [my website](https://alexisprovost.com)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexisprovost&theme=dark&show_icons=true" alt="alexisprovost" /></p>
