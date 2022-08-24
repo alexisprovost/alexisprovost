@@ -7,11 +7,11 @@
   </a>
   &nbsp; 
   <a href="http://sshort.net/w11" target="_blank">
-    <img src="https://img.shields.io/badge/OS-Windows 11-informational?style=flat&logo=windows&logoColor=white&color=0172b3"/>
+    <img src="https://img.shields.io/badge/OS-Windows 11-informational?style=for-the-badge&logo=windows&logoColor=white&color=0172b3"/>
   </a>
   &nbsp; 
   <a href="https://code.visualstudio.com/download" target="_blank">
-    <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0172b3"/>
+    <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0172b3"/>
   </a>
 </p>
 
