@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
-<h3 align="center">A passionate developer from Canada</h3>
+<h3 align="center">Full stack developper from Canada</h3>
 
 <p align="center"> 
   <a href="https://www.microsoft.com/en-ca/software-download/windows11" target="_blank">
@@ -10,10 +10,10 @@
     <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0172b3"/>
   </a>
   &nbsp;
-  <a href="bitcoin:alexisprovost.wallet" target="_blank">
-    <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white&color=0172b3"/>
-  </a>
+  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
 </p>
+
+
 
 - 🌱 I’m currently learning **Computer Sciences**
 
