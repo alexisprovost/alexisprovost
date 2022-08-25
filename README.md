@@ -77,6 +77,5 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisprovost&theme=dark" alt="alexisprovost" />
-  <br><br>
   <img align="center" style="margin-top:1px" src="https://github-readme-stats.vercel.app/api?username=alexisprovost&theme=dark&show_icons=true" alt="alexisprovost" /> 
 </p>
