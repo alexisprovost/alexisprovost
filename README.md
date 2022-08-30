@@ -76,6 +76,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisprovost&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" alt="alexisprovost" />&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisprovost&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" alt="alexisprovost" /><br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexisprovost&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" alt="alexisprovost" /> 
 </p>
