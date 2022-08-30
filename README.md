@@ -15,9 +15,9 @@
 
 
 
-- 🌱 I’m currently learning **Computer Sciences**
+- 📙 I’m currently learning **Computer Sciences**
 
-- 👨‍💻 Check out [my website](https://alexisprovost.com)
+- 💻 Check out [my website](https://alexisprovost.com)
 
 
 ### Technologies i use
