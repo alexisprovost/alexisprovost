@@ -76,7 +76,9 @@
 <a href="https://html.spec.whatwg.org/" target="_blank">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
 <a href="https://jquery.com/" target="_blank">![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)</a>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisprovost&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" alt="alexisprovost" /><br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexisprovost&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" alt="alexisprovost" /> 
+<p>
+  <a href="https://alexisprovost.com/" target="_blank">
+    <img height="137px" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=alexisprovost&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" alt="alexisprovost" />
+    <img height="137px" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisprovost&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" alt="alexisprovost" />
+  </a>
 </p>
