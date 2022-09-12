@@ -78,7 +78,7 @@
 
 <p>
   <a href="https://alexisprovost.com/" target="_blank">
-    <img height="137px" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=alexisprovost&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true" alt="alexisprovost" />
-    <img height="137px" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisprovost&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact" alt="alexisprovost" />
+    <img height="137px" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=alexisprovost&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&bg_color=30,e96443,904e95&icon_color=000&theme=graywhite" alt="alexisprovost" />
+    <img height="137px" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisprovost&bg_color=30,904e95,e96443&hide=Batchfile,Shell&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" alt="alexisprovost" />
   </a>
 </p>
