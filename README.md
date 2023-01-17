@@ -24,7 +24,9 @@
 <a href="https://nodejs.org/" target="_blank">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</a>
 <a href="https://reactjs.org/" target="_blank">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
 <a href="https://vuejs.org/" target="_blank">![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)</a>
+<a href="https://www.mysql.com/" target="_blank">![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)</a>
 <a href="https://mariadb.org/" target="_blank">![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)</a>
+<a href="https://neo4j.com/" target="_blank">![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)</a>
 <a href="https://www.mongodb.com/" target="_blank">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</a>
 <a href="https://www.postgresql.org/" target="_blank">![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)</a>
 <a href="https://www.adobe.com/ca/products/aftereffects.html" target="_blank">![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)</a>
