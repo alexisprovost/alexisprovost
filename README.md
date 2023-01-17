@@ -76,7 +76,6 @@
 <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank">![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</a>
 <a href="https://w3.org/TR/CSS/#css" target="_blank">![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a>
 <a href="https://html.spec.whatwg.org/" target="_blank">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
-
 <p>
   <a href="https://alexisprovost.com/" target="_blank">
     <img height="137px" style="max-width: 100%;" src="https://ninja-readme-stats.vercel.app/api?username=alexisprovost&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&bg_color=30,e96443,904e95&icon_color=000&theme=graywhite" alt="alexisprovost" />
