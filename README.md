@@ -81,7 +81,7 @@
 <a href="https://html.spec.whatwg.org/" target="_blank">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a>
 <p>
   <a href="https://alexisprovost.com/" target="_blank">
-    <img height="137px" style="max-width: 100%;" src="https://ninja-readme-stats.vercel.app/api?username=alexisprovost&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&bg_color=30,e96443,904e95&icon_color=000&theme=graywhite" alt="alexisprovost" />
-    <img height="137px" style="max-width: 100%;" src="https://ninja-readme-stats.vercel.app/api/top-langs/?username=alexisprovost&bg_color=30,904e95,e96443&hide=Batchfile,Shell,html,css&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" alt="alexisprovost" />
+    <img height="137px" style="max-width: 100%;" src="https://ninja.alexisprovost.com/api?username=alexisprovost&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&bg_color=30,e96443,904e95&icon_color=000&theme=graywhite" alt="alexisprovost" />
+    <img height="137px" style="max-width: 100%;" src="https://ninja.alexisprovost.com/api/top-langs/?username=alexisprovost&bg_color=30,904e95,e96443&hide=Batchfile,Shell,html,css&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" alt="alexisprovost" />
   </a>
 </p>
