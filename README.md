@@ -10,7 +10,8 @@
     <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=0172b3"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Bitcoin_alexisprovost.wallet-000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+  <a href="https://ud.me/alexisprovost.wallet" target="_blank"><img src="https://img.shields.io/badge/Bitcoin_alexisprovost.wallet-000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+  </a>
 </p>
 
 
