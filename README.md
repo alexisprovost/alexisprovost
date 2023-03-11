@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
-<h3 align="center">I am a passionate Full Stack Developer with experience in building web applications using various technologies.</h3>
+<h3 align="center">I am a passionate Full Stack Developer with experience<br/>in building web applications using various technologies.</h3>
 
 <p align="center"> 
   <a href="https://www.microsoft.com/en-ca/software-download/windows11" target="_blank">
