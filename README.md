@@ -35,9 +35,7 @@
 <a href="https://neo4j.com/" target="_blank">![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)</a>
 <a href="https://www.mongodb.com/" target="_blank">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</a>
 <a href="https://www.postgresql.org/" target="_blank">![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)</a>
-<a href="https://www.adobe.com/ca/products/aftereffects.html" target="_blank">![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)</a>
 <a href="https://www.adobe.com/ca/products/illustrator.html" target="_blank">![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)</a>
-<a href="https://unity.com/" target="_blank">![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)</a>
 <a href="https://www.adobe.com/ca/products/photoshop.html" target="_blank">![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)</a>
 <a href="https://www.adobe.com/ca/products/xd.html" target="_blank">![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)</a>
 <a href="https://figma.com/" target="_blank">![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</a>
@@ -74,6 +72,7 @@
 <a href="https://git-scm.com/" target="_blank">![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</a>
 <a href="https://github.com/" target="_blank">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://numpy.org/" target="_blank">![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)</a>
+<a href="https://unity.com/" target="_blank">![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)</a>
 
 ### ⌨️ Languages
 <a href="https://javascript.com/" target="_blank">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
