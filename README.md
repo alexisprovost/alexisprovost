@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexis</h1>
+<h1 align="center">Hi <img src="https://img.sshort.net/i/EZlK.gif" width="30px" />, I'm Alexis</h1>
 <h3 align="center">I am a passionate Full Stack Developer with experience<br/>in building web applications using various technologies.</h3>
 
 <p align="center"> 
