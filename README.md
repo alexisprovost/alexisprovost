@@ -73,6 +73,8 @@
 <a href="https://github.com/" target="_blank">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://numpy.org/" target="_blank">![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)</a>
 <a href="https://unity.com/" target="_blank">![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)</a>
+<a href="https://chat.openai.com/" target="_blank">![ChatGPT](https://img.shields.io/badge/ChatGPT-70a597?style=for-the-badge&logo=openai&logoColor=white)</a>
+<a href="https://github.com/features/copilot" target="_blank">![Github Copilot](https://img.shields.io/badge/GitHub%20Copilot-333?style=for-the-badge&logo=github&logoColor=white)</a>
 
 ### ⌨️ Languages
 <a href="https://javascript.com/" target="_blank">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
