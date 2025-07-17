@@ -98,8 +98,8 @@
 ### 📈 Stats
 
 <p>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=alexisprovost&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=graywhite" alt="alexisprovost" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisprovost&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite" alt="alexisprovost" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=alexisprovost&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=0d1116" alt="alexisprovost" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisprovost&hide_title=true&hide_border=true&layout=compact&langs_count=6&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=0d1116" alt="alexisprovost" />
 </p>
 
 ---
