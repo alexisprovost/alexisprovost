@@ -85,15 +85,6 @@
 
 ---
 
-### 📊 Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alexisprovost&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisprovost&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" />
-</div>
-
----
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/alexisprovost.com-6366F1?style=flat-square&logo=safari&logoColor=white)](https://alexisprovost.com) ![Views](https://komarev.com/ghpvc/?username=alexisprovost&color=6366F1&style=flat-square&label=Views)
